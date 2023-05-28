@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442578517863",
+    "project_id": "instagramclone-757c3",
+    "storage_bucket": "instagramclone-757c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442578517863:android:c56c42a2ee20fab35e39c2",
+        "android_client_info": {
+          "package_name": "com.soneralci.instagramcloneviafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTB7YVDlzao2p0syjWx9pRMvx5S1oBA9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
